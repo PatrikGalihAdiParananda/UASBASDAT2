@@ -1,0 +1,18 @@
+[{
+  "_id": 1,
+  "iddosen": 100,
+  "nama": "Putri",
+  "homebase": "Informatika"
+},
+{
+  "_id": 2,
+  "iddosen": 101,
+  "nama": "Putri Bangsa",
+  "homebase": "T.Elektro"
+},
+{
+  "_id": 3,
+  "iddosen": 102,
+  "nama": "Eva Laura",
+  "homebase": "Sistem Informasi"
+}]

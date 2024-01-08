@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "659b988a0671d440fd37a136"
+  },
+  "id": 1,
+  "idmhs": 3444,
+  "hobi": [
+    "Traveling",
+    "Musik",
+    "Games"
+  ]
+},
+{
+  "_id": {
+    "$oid": "659b988a0671d440fd37a137"
+  },
+  "id": 2,
+  "idmhs": 3444,
+  "hobi": [
+    "Kuliner",
+    "Memancing",
+    "Traveling",
+    "Games"
+  ]
+}]

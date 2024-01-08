@@ -1,0 +1,24 @@
+[{
+  "_id": 1,
+  "idmhs": 3444,
+  "iddosen": 100,
+  "namaDosen": "Putri"
+},
+{
+  "_id": 2,
+  "idmhs": 3444,
+  "iddosen": 101,
+  "namaDosen": "Putra Bangsa"
+},
+{
+  "_id": 3,
+  "idmhs": 3445,
+  "iddosen": 101,
+  "namaDosen": "Putri"
+},
+{
+  "_id": 4,
+  "idmhs": 3445,
+  "iddosen": 102,
+  "namaDosen": "Eva Laura"
+}]
