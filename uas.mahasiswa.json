@@ -1,0 +1,16 @@
+[{
+  "_id": 1,
+  "nim": 3444,
+  "namaDepan": "Elo",
+  "namaBelakang": "Putra",
+  "phone": 121212,
+  "kotaAsal": "Palembang"
+},
+{
+  "_id": 2,
+  "nim": 3445,
+  "namaDepan": "Eko",
+  "namaBelakang": "Kuntadhi",
+  "phone": 131313,
+  "kotaAsal": "Jakarta"
+}]
